@@ -17,3 +17,9 @@ h1 {
 pre {
   font-size: 1.2em;
 }
+
+img.ordemDecrescente {
+  float: left;
+  height: 400px;
+  width: 300px;
+}
